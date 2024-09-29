@@ -4,5 +4,11 @@
     "file": "samples/leifgreen-drum-loop.wav",
     "bpm": "120",
     "loop": "2m"
+  },
+  {
+    "name": "guitar strum",
+    "file": "samples/godlesswonder-d-maj.wav",
+    "bpm": "120",
+    "loop": "2m"
   }
 ]

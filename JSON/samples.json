@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "slow drums",
+    "file": "samples/leifgreen-drum-loop.wav",
+    "bpm": "120",
+    "loop": "4m"
+  }
+]
